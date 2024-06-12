@@ -88,12 +88,6 @@ class _LoginScreenState extends State<LoginScreen> {
               ),
             ),
           ),
-          // OutlinedButton(
-          //   onPressed: (){
-          //     Navigator.pushReplacement(context, MaterialPageRoute(builder: (_) => const RegisterScreen()));
-          //   },
-          //   child: const Text("Don't have an account? Register now"),
-          // ),
           const SizedBox(height: 15,)
         ],
       ),
